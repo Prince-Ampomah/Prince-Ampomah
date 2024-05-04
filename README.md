@@ -4,11 +4,13 @@ Hi 👋 My name is Prince Ampomah
 Mobile App Developer
 --------------------
 
-I have 3+ years of experience in mobile application development, I have a proven track record of creating robust and high-performance apps. I specialize in using the Flutter framework and have successfully delivered customer-centric mobile apps. My passion lies in creating intuitive mobile apps that offer excellent user experiences. My tech stack includes Flutter Framework, Dart, JavaScript, HTML5, CSS3, Firebase, MongoDB, Google Cloud Platform, UI/UX, Figma, Git, GitHub
+Here's a revised version:
+
+I possess over three years of hands-on experience in mobile application development, with a strong track record of developing robust, high-performance apps. My expertise lies in leveraging the Flutter framework to deliver customer-centric mobile applications. I am deeply passionate about crafting intuitive mobile experiences that prioritize user satisfaction. My technical toolkit includes proficiency in Flutter Framework, Dart, JavaScript, HTML5, CSS3, Firebase, MongoDB, Google Cloud Platform, UI/UX design, and Figma, as well as version control with Git and GitHub.
 
 * 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [aaprince2017@gmail.com](mailto:aaprince2017@gmail.com)
-* 🚀  I'm currently working on [FarmAsyst Limited](http://farmasystgh.com/)
+* 🚀  I'm currently working on [Farmasyst Limited](http://farmasystgh.com/)
 * 🤝  I'm open to collaborating on any interesting project
 
 <a href="https://www.github.com/Prince-Ampomah" target="_blank" rel="noreferrer"><img
