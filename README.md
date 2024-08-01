@@ -4,8 +4,6 @@ Hi 👋 My name is Prince Ampomah
 Software Developer (Mobile & Frontend)
 --------------------
 
-Here's a revised version:
-
 I specialize in mobile app and frontend development, focusing on creating robust, high-performance applications. I leverage my expertise in the Flutter framework to build customer-centric mobile apps that prioritize user satisfaction. I am passionate about crafting intuitive and engaging user experiences across mobile and web platforms. My technical skills include Flutter(Dart), JavaScript, HTML5, CSS3, Firebase, MongoDB, SQL,  Google Cloud Platform, UI/UX design, Figma, and version control with Git and GitHub.
 
 * 🌍  I'm based in Akron, OH
