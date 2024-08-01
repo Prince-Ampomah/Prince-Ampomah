@@ -1,16 +1,16 @@
 Hi 👋 My name is Prince Ampomah
 ===============================
 
-Mobile App Developer
+Software Developer (Mobile & Frontend)
 --------------------
 
 Here's a revised version:
 
-I possess over three years of hands-on experience in mobile application development, with a strong track record of developing robust, high-performance apps. My expertise lies in leveraging the Flutter framework to deliver customer-centric mobile applications. I am deeply passionate about crafting intuitive mobile experiences that prioritize user satisfaction. My technical toolkit includes proficiency in Flutter Framework, Dart, JavaScript, HTML5, CSS3, Firebase, MongoDB, Google Cloud Platform, UI/UX design, and Figma, as well as version control with Git and GitHub.
+I specialize in mobile app and frontend development, focusing on creating robust, high-performance applications. I leverage my expertise in the Flutter framework to build customer-centric mobile apps that prioritize user satisfaction. I am passionate about crafting intuitive and engaging user experiences across mobile and web platforms. My technical skills include Flutter(Dart), JavaScript, HTML5, CSS3, Firebase, MongoDB, SQL,  Google Cloud Platform, UI/UX design, Figma, and version control with Git and GitHub.
 
-* 🌍  I'm based in Accra, Ghana
+* 🌍  I'm based in Akron, OH
 * ✉️  You can contact me at [aaprince2017@gmail.com](mailto:aaprince2017@gmail.com)
-* 🚀  I'm currently working on [Farmasyst Limited](http://farmasystgh.com/)
+* 🚀  I'm currently working on a side project [Farmasyst Limited](http://farmasystgh.com/)
 * 🤝  I'm open to collaborating on any interesting project
 
 <a href="https://www.github.com/Prince-Ampomah" target="_blank" rel="noreferrer"><img
@@ -50,6 +50,4 @@ src="https://img.shields.io/twitter/follow/PrinceAmpomah19?logo=twitter&style=fo
 
 <a href="https://github.com/Prince-Ampomah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Ampomah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/PrinceAmpomah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
